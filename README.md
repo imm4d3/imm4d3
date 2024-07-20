@@ -1,6 +1,6 @@
 ## ![ladno](https://rf0x3d.su/maybe_assets/music_outline_28.svg) Spotify Now Playing
 
-![now playing](https://now-play.vercel.app/api/generate?uid=c0360932-c60a-45d6-ab12-1dfedba85d26&theme=dark)
+![now playing](https://widget.nowplaying.site/lEGs8yHQhURbf9VO)
 
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/computer_outline_28.svg) Pages
