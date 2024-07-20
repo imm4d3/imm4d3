@@ -4,8 +4,7 @@
 
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/computer_outline_28.svg) Pages
-  [![Website](https://rf0x3d.su/maybe_assets/globe_outline_28.svg)](https://liberaha.me)
-  [![Donate](https://rf0x3d.su/maybe_assets/money_transfer_outline_28.svg)](https://t.me/zakatsuicide/2)
+  [![Donate](https://rf0x3d.su/maybe_assets/money_transfer_outline_28.svg)](https://t.me/hatetheinternet)
   [![VK](https://rf0x3d.su/maybe_assets/logo_vk_outline_28.svg)](https://vk.com/kvmrnn)
   [![Telegram](https://rf0x3d.su/maybe_assets/location_outline_28.svg)](https://t.me/tbankhater)
 
