@@ -1,4 +1,4 @@
-## ![ladno](https://www.svgrepo.com/show/457128/music-note-circle.svg) Spotify Now Playing
+## ![ladno](https://www.svgrepo.com/show/457128/music-note-circle.svg&height=500px&weight=500px) Spotify Now Playing
 
 ![now playing](https://now-play.vercel.app/api/generate?uid=666b4274-f0a2-43f0-accc-956162d22d6e&theme=dark")
 
